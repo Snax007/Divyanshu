@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20There!%20I'm%20an%20Engineer%20👨‍💻&fontSize=35&fontColor=ffffff" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20There!%20I'm%20Divyanshu%20👨‍💻&fontSize=35&fontColor=ffffff" alt="Header" />
 
 ### 👋 Hello! I'm Divyanshu Singh — Engineering Student & Tech Enthusiast
 
