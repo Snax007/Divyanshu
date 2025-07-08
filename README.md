@@ -45,7 +45,7 @@ Student attendance system using C programming language
 ### 🤝 Let's Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/divyanshusingh007
-- ✉️ Email: your.email@example.com *(optional)*
+- ✉️ Email: maverick20192020@gmail.com
 
 ---
 
