@@ -26,9 +26,9 @@ I'm an aspiring developer with a strong foundation in **C programming**, **HTML*
 
 ---
 
-### 🛠 Projects Coming Soon...
+### 🛠 Projects 
+Student attendance system using C programming language
 
-> Building beginner-friendly JavaScript projects — calculators, to-do apps, and more!
 
 ---
 
